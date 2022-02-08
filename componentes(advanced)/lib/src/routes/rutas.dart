@@ -1,0 +1,9 @@
+export 'package:componentes/src/pages/alert_page.dart';
+export 'package:componentes/src/pages/avatar_page.dart';
+export 'package:componentes/src/pages/home_page.dart';
+export 'package:componentes/src/pages/card_page.dart';
+export 'package:componentes/src/pages/animated_container.dart';
+export 'package:componentes/src/pages/input_page.dart';
+export 'package:componentes/src/pages/slider_page.dart';
+export 'package:componentes/src/pages/listView_page.dart';
+export 'package:componentes/src/pages/listView1_screen.dart';
